@@ -429,6 +429,18 @@
 				"description": "This request authorizes against an OAuth 1.0 protected endpoint using Postman's OAuth 1.0 auth helper. OAuth is often used for one service to access protected resources hosted by another service on a user's behalf.\n\nTo customize the request, update the URL to point to your chosen endpoint and modify the `oauth1Key` and `oauth1Secret` collection variables."
 			},
 			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-ce0412e6-94b7-4d5e-bc9e-b97b54d9b6db",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	],
 	"event": [
