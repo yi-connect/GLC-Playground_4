@@ -66,7 +66,7 @@
 			"response": []
 		},
 		{
-			"name": "glc request",
+			"name": "glc requests",
 			"id": "1122189-7e88f7d3-65b0-4dc6-9eba-759ab2eb9ed9",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
