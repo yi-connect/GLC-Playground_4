@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "1122189-592faaef-b7a9-4e01-8493-fcdf6bcfce43",
+		"name": "GLC Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "1122189-2cb25691-1f0d-46f7-9c46-321f3f774b51",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
