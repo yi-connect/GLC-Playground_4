@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "Get Data",
 			"id": "1122189-956279e8-522b-4bd8-a4fa-72c2cd25d36a",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
